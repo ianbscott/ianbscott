@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-- 👨‍🎓 I’m currently working on my Master of Arts in Economics @ Queen's University.
+- 👨‍🎓 I’m a Master's student in Economics @ Queen's University.
 - 💻 I've worked as a Economics Research Assistant for academic and non-profit organizations.
 - 👔 I’m looking for work as an economist or data scientist.
-- ✍️ I'm working on my machine learning assignments.
