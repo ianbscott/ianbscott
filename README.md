@@ -4,4 +4,4 @@
 - 💻 I've worked as a Research Assistant and Policy Analyst for academic and non-profit organizations.
 - 👔 I’m looking for work as an economist or data scientist.
 
-When I'm not in school you'll find me 🏃‍♂️ running, 📚 reading, and 🍽️ cooking.
+I am experienced with machine learning and causal inference, and have used R, Python, and Stata.
